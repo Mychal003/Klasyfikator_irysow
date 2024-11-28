@@ -80,12 +80,17 @@ Dokładność modelu na podstawie danych poprawnych: 96.67%
    .venv\Scripts\activate
    ```
 
-2. Uruchom skrypt:
-   ```bash
-   python main.py
-   ```
+### Uruchom Jupyter Notebook w swoim środowisku wirtualnym:  
 
-3. Zobacz wyniki na konsoli i wizualizacje w wygenerowanych wykresach.
+Skopiuj kod
+```bash
+jupyter notebook
+```
+Otwórz notebook projektu (np. projekt.ipynb) w interfejsie Jupyter.
+
+Wykonuj kolejne komórki kodu zgodnie z logiką projektu, zaczynając od importów i przetwarzania danych.
+
+Zobacz wyniki na konsoli i wizualizacje w wygenerowanych wykresach.
 
 ## Wyniki
 
